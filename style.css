@@ -1,0 +1,18 @@
+.panel {
+	border: 1px black solid;
+	margin: 25px 0px 25px 0px;
+	padding: 20px;
+	border-radius: 25px;
+}
+
+.btn-default {
+	margin-top: 20px;
+}
+
+.panel-heading {
+	font-weight: bold;
+}
+
+label {
+	margin-top: 15px;
+}
